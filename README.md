@@ -13,6 +13,7 @@
 
 ## Current Projects
 
+- 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** — Multi-platform financial data ingestion framework for tracking semiconductor & tech news. Ingests from Twitter, Reddit, Substack & 6+ news APIs → Redis Streams → FinBERT/MiniLM embeddings → pgvector semantic search. Includes NER, entity-level sentiment analysis, and a FastAPI serving layer.
 - ⚡ **[rapid-textrank](https://github.com/xang1234/rapid-textrank)** — High-performance TextRank in Rust with Python bindings. Extract keywords 10–100x faster than pure Python. Supports TextRank, PositionRank & BiasedTextRank with 18 languages.
 - 📈 **[StockScreener](https://github.com/xang1234/StockScreener)** — Full-stack stock scanner implementing William O'Neil's CANSLIM and Mark Minervini's trend template. 80+ filters, AI chatbot (Groq/DeepSeek/Gemini), theme discovery, and StockBee-style breakout scans.
 
@@ -40,17 +41,18 @@
 
 ---
 
-## GitHub Activity
+## 🏆 Kaggle — Competitions Expert
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/xang1234)](https://github.com/xang1234)
+**Rank:** 4,987 / 204,611 (highest: **421**) &nbsp;|&nbsp; 🥈 **2 Silver** &nbsp; 🥉 **4 Bronze** &nbsp;|&nbsp; **20 competitions** (all solo)
 
----
-
-## What I'm Into
-
-- **NLP & Text Mining** — From TextRank to extreme multi-label classification, making text algorithms fast and practical
-- **Quantitative Finance** — Building stock screeners with battle-tested investment methodologies (CANSLIM, Minervini)
-- **Data Storytelling** — Isochrone maps, chord diagrams, choropleths — making data visual and interactive
+| Competition | Domain | Rank |
+|---|---|---|
+| **Lyft 3D Object Detection for Autonomous Vehicles** | 3D CV / Autonomous Driving | 🥈 **35 / 546** (top 6%) |
+| **Predicting Molecular Properties** | Chemistry / Quantum Mechanics | 🥈 **40 / 2,737** (top 1.5%) |
+| **Peking University/Baidu — Autonomous Driving** | CV / Pose Estimation | 🥉 **75 / 864** (top 9%) |
+| **Google QUEST Q&A Labeling** | NLP / Question Answering | 🥉 **104 / 1,571** (top 7%) |
+| **RSNA Intracranial Hemorrhage Detection** | Medical Imaging | 🥉 **104 / 1,345** (top 8%) |
+| **TensorFlow 2.0 Question Answering** | NLP / Reading Comprehension | 🥉 **119 / 1,233** (top 10%) |
 
 ## Connect
 
