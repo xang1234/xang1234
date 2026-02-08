@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-📍 **Singapore** | 📊 **Data Scientist** |  **Python Builder** | ⚡ **Rust Learner**
+📍 **Singapore** | 📊 **Data Scientist** | :snake: **Python Builder** | :crab: **Rust Learner**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/xang1234)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/xang1234)
@@ -16,7 +16,7 @@
 - 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** — Multi-platform financial data ingestion framework for tracking semiconductor & tech news. Ingests from Twitter, Reddit, Substack & 6+ news APIs → Redis Streams → FinBERT/MiniLM embeddings → pgvector semantic search. Includes NER, entity-level sentiment analysis, and a FastAPI serving layer.
 - ⚡ **[rapid-textrank](https://github.com/xang1234/rapid-textrank)** — High-performance TextRank in Rust with Python bindings. Extract keywords 10–100x faster than pure Python. Supports TextRank, PositionRank & BiasedTextRank with 18 languages.
 - 📈 **[StockScreener](https://github.com/xang1234/StockScreener)** — Full-stack stock scanner implementing William O'Neil's CANSLIM and Mark Minervini's trend template. 80+ filters, AI chatbot (Groq/DeepSeek/Gemini), theme discovery, and StockBee-style breakout scans.
-
+- 🔍 **[JobScraper](https://github.com/xang1234/JobScraper)** — Job listing scraper and Intelligence platform
 
 ## NLP & Machine Learning
 
@@ -36,7 +36,6 @@
 ## Tools & Scrapers
 
 - 💰 **[Finviz-Scraper](https://github.com/xang1234/Finviz-Scraper)** — Simple, effective Python scraper for Finviz financial data ⭐ 35
-- 🔍 **[JobScraper](https://github.com/xang1234/JobScraper)** — Job listing scraper
 - 🚢 **[at_sea](https://github.com/xang1234/at_sea)** — Python utility project
 
 ---
@@ -60,9 +59,3 @@
 [![Kaggle](https://img.shields.io/badge/-xang1234-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/xang1234)
 [![Blog](https://img.shields.io/badge/-xang1234.github.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://xang1234.github.io/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xang1234)
-
----
-
-### Philosophy
-
-> "Good data deserves fast algorithms." — I build tools that sit at the intersection of NLP, finance, and performance engineering. If Python's too slow, there's always Rust.
