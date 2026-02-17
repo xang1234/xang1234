@@ -17,6 +17,7 @@
 - ⚡ **[rapid-textrank](https://github.com/xang1234/rapid-textrank)** — High-performance TextRank in Rust with Python bindings. Extract keywords 10–100x faster than pure Python. Supports TextRank, PositionRank & BiasedTextRank with 18 languages.
 - 📈 **[StockScreener](https://github.com/xang1234/StockScreener)** — Full-stack stock scanner implementing William O'Neil's CANSLIM and Mark Minervini's trend template. 80+ filters, AI chatbot (Groq/DeepSeek/Gemini), theme discovery, and StockBee-style breakout scans.
 - 🔍 **[JobScraper](https://github.com/xang1234/JobScraper)** — Job listing scraper and Intelligence platform
+- 🩺 **[changepoint-doctor](https://github.com/xang1234/changepoint-doctor)** Rust first offline and online changepoint detection toolkit with Python bindings. PELT, BinSeg, FPOP, WBS & SegNeigh for offline; BOCPD, CUSUM & Page-Hinkley for streaming. Ships a "doctor" recommendation engine that proposes detector/cost/stopping pipelines from signal diagnostics
 
 ## NLP & Machine Learning
 
