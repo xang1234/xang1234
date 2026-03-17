@@ -29,7 +29,6 @@
 
 ## Data Visualization & Analysis
 
-- 🗳️ **[Malaysian-Elections-GE14-2018](https://github.com/xang1234/Malaysian-Elections-GE14-2018)** Visualizing the watershed 2018 Malaysian election with data from Wikipedia & Department of Statistics
 - 🗺️ **[Isochrone Maps](https://xang1234.github.io/isochrone/)** Travel time visualizations for Singapore using R and OpenTripPlanner
 - 🎵 **[Chord Diagrams](https://xang1234.github.io/chorddiagrams/)** Interactive chord diagrams in R for visualizing global migration flows
 - 📊 **[Population Pyramids](https://xang1234.github.io/pyramidgeofacet/)** Faceted population pyramids for demographic analysis
