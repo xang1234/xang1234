@@ -13,7 +13,7 @@
 
 ## Current Projects
 - 📈 **[stock-screener](https://github.com/xang1234/stock-screener)** Stock scanner with multiple fundamental and technical criteria. Features 80+ filters, AI chatbot (Groq/DeepSeek/Gemini), theme discovery, and StockBee-style breadth indicators.
-- 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** Multi-platform financial data ingestion framework for tracking semiconductor & tech news. Ingests from Twitter, Reddit, Substack & 6+ news APIs → Redis Streams → FinBERT/MiniLM embeddings → pgvector semantic search. Includes NER, entity-level sentiment analysis, and a FastAPI serving layer.
+- 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** Track and analyse financial news from Twitter, Reddit, Substack, etc. 
 - 🌦️ **[weatherman](https://github.com/xang1234/weatherman)** Maritime weather intelligence platform. Ingests GFS forecasts into cloud-optimized Zarr/COG/STAC datasets, serves weather tiles and EDR APIs through FastAPI/TiTiler, and ships a MapLibre frontend with live SSE updates, vessel tracking, point forecasts, and GPU wind-particle rendering.
 - 🔱 **[neptune](https://github.com/xang1234/neptune)** AIS vessel-tracking platform. Fuses six maritime sources into a single dataset. Detects port calls, EEZ crossings, vessel encounters, and loitering from raw positions. Supports batch analysis, real-time, and animated voyage replay.
 - 🔍 **[jobs-intelligence](https://github.com/xang1234/jobs-intelligence)** Job listing scraper and Intelligence platform
