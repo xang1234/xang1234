@@ -12,13 +12,13 @@
 ---
 
 ## Current Projects
-- 📈 **[stock-screener](https://github.com/xang1234/stock-screener)** Stock scanner with multiple fundamental and technical criteria. Features 80+ filters, AI chatbot (Groq/DeepSeek/Gemini), theme discovery, and StockBee-style breadth indicators.
-- 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** Track and analyse financial news from Twitter, Reddit, Substack, etc. 
-- 🌦️ **[weatherman](https://github.com/xang1234/weatherman)** Maritime weather intelligence platform. Ingests GFS forecasts into cloud-optimized Zarr/COG/STAC datasets, serves weather tiles and EDR APIs through FastAPI/TiTiler, and ships a MapLibre frontend with live SSE updates, vessel tracking, point forecasts, and GPU wind-particle rendering.
-- 🔱 **[neptune](https://github.com/xang1234/neptune)** AIS vessel-tracking platform. Fuses six maritime sources into a single dataset. Detects port calls, EEZ crossings, vessel encounters, and loitering from raw positions. Supports batch analysis, real-time, and animated voyage replay.
-- 🔍 **[jobs-intelligence](https://github.com/xang1234/jobs-intelligence)** Job listing scraper and Intelligence platform
--  🩺 **[changepoint-doctor](https://github.com/xang1234/changepoint-doctor)** Rust first offline and online changepoint detection toolkit with Python bindings. PELT, BinSeg, FPOP, WBS & SegNeigh for offline; BOCPD, CUSUM & Page-Hinkley for streaming. Ships a "doctor" recommendation engine that proposes detector/cost/stopping pipelines from signal diagnostics
-- ⚡ **[rapid-textrank](https://github.com/xang1234/rapid-textrank)** High-performance TextRank in Rust with Python bindings. Extract keywords 10–100x faster than pure Python. Supports TextRank, PositionRank & BiasedTextRank with 18 languages.
+- 📈 **[stock-screener](https://github.com/xang1234/stock-screener)** - Stock scanner with fundamental, technical and news/articles analysis. 
+- 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** - Track and analyse financial news from X/Twitter, Reddit, Substack, etc. 
+- 🌦️ **[weatherman](https://github.com/xang1234/weatherman)** - Weather intelligence platform for weather forecasts and marine routing.
+- 🔱 **[neptune](https://github.com/xang1234/neptune)** - AIS vessel-tracking with open source datasets. 
+- 🔍 **[jobs-intelligence](https://github.com/xang1234/jobs-intelligence)** - Jobs intelligence platform
+-  🩺 **[changepoint-doctor](https://github.com/xang1234/changepoint-doctor)** - Rust based offline and online changepoint detection toolkit with "doctor" recommendation engine. 
+- ⚡ **[rapid-textrank](https://github.com/xang1234/rapid-textrank)** - High-performance TextRank in Rust with Python bindings. Extract keywords fast
 
 
 ## NLP & Machine Learning
