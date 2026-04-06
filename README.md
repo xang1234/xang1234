@@ -57,7 +57,6 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-David_Ten-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ten-kao-yuan-7496b730)
 [![Kaggle](https://img.shields.io/badge/-xang1234-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/xang1234)
 [![Blog](https://img.shields.io/badge/-xang1234.github.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://xang1234.github.io/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xang1234)
