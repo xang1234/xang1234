@@ -37,7 +37,7 @@
 
 ## Tools & Scrapers
 
-- 💰 **[Finviz-Scraper](https://github.com/xang1234/Finviz-Scraper)** Simple, effective Python scraper for Finviz financial data ⭐ 35
+- 💰 **[Finviz-Scraper](https://github.com/xang1234/Finviz-Scraper)** Simple, effective Python scraper for Finviz financial data
 - 🚢 **[at_sea](https://github.com/xang1234/at_sea)** Python utility project
 
 ---
