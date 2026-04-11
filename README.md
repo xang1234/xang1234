@@ -1,6 +1,4 @@
-# Hi, I'm David 👋
-
-📍 **Singapore** | 📊 **Data Scientist** | :snake: **Python Builder** | :crab: **Rust Learner**
+📊 **Data Scientist** | :snake: **Python Builder** | :crab: **Rust Learner**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/xang1234)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/xang1234)
