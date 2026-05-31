@@ -13,7 +13,7 @@
 - 📈 **[stock-screener](https://github.com/xang1234/stock-screener)** - Stock scanner with fundamental, technical and news/articles analysis. 
 - 📰 **[news-tracker](https://github.com/xang1234/news-tracker)** - Track and analyse financial news from X/Twitter, Reddit, Substack, etc. 
 - 🌦️ **[weatherman](https://github.com/xang1234/weatherman)** - Weather intelligence platform for weather forecasts and marine routing.
-- 📊 **[market-agent](https://github.com/xang1234/market-agent)**  - Evidence-backed finance research terminal: screen markets, dig into companies, and run an AI analyst where every number traces back to its source.
+- 📊 **[market-agent](https://github.com/xang1234/market-agent)**  - Evidence-backed finance research terminal: run an AI analyst where every number traces back to its source.
 - 🔱 **[neptune](https://github.com/xang1234/neptune)** - AIS vessel-tracking with open source datasets. 
 - 🔍 **[jobs-intelligence](https://github.com/xang1234/jobs-intelligence)** - Jobs intelligence platform
 -  🩺 **[changepoint-doctor](https://github.com/xang1234/changepoint-doctor)** - Rust based offline and online changepoint detection toolkit with "doctor" recommendation engine. 
